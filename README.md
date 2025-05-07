@@ -2,7 +2,7 @@
 This project analyzes telecom customer data to predict the likelihood of customer churn using machine learning models. The goal is to help telecom providers identify customers at risk of leaving and take preventive actions.
 
 2. Dataset
-Source: Telco Customer Churn dataset (Kaggle link)
+Source: Telco Customer Churn dataset (from Kaggle)
 
 Features: Includes customer demographics, service usage details, contract information, billing data, and churn status.
 
